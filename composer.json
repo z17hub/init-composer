@@ -1,0 +1,19 @@
+{
+  "name": "z17hub/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/z17hub",
+  "keywords": ["z17hub", "init-composer"],
+  "support": {
+    "source": "https://github.com/z17hub/init-composer",
+    "issues": "https://github.com/z17hub/init-composer/issues",
+    "docs": "https://github.com/z17hub/init-composer/wiki",
+    "forum": "https://github.com/z17hub/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
